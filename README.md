@@ -1,4 +1,4 @@
-# xcompose-greek-ketters
+# xcompose-greek-letters
 Write greek letters with: 
 
 multikey + g + (letter)  -> tested on ubuntu 18.04 LTS && keyboard: US-intl
