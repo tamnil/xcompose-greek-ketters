@@ -57,6 +57,8 @@ include "/usr/share/X11/locale/en_US.UTF-8/Compose"
 <Multi_key> <g> <Z>            : "Ζ"   U0396    # GREEK CAPITAL LETTER ZETA
 <Multi_key> <g> <z>            : "ζ"   U03B6    # GREEK SMALL LETTER ZETA
 
+#some latin accents ( portuguese
+
 <Multi_key> <c> <c>            : "ç"   ccedilla # LATIN SMALL LETTER C WITH CEDILLA
 <Multi_key> <a> <a>            : "ã"   atilde # LATIN SMALL LETTER A WITH TILDE
 <Multi_key> <e> <e>            : "é"   eacute # LATIN SMALL LETTER E WITH ACUTE
